@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>me.escoffier.microservice</groupId>
+  <artifactId>quarkus-microservice-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220429022341</lastUpdated>
+  </versioning>
+</metadata>
