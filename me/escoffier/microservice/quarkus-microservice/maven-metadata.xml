@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>me.escoffier.microservice</groupId>
-  <artifactId>quarkus-microservice-deployment</artifactId>
+  <artifactId>quarkus-microservice</artifactId>
   <versioning>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220429015550</lastUpdated>
+    <lastUpdated>20220429015543</lastUpdated>
   </versioning>
 </metadata>

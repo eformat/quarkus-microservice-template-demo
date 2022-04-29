@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>me.escoffier.microservice</groupId>
-  <artifactId>quarkus-microservice-deployment</artifactId>
+  <artifactId>quarkus-microservice</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20220429015550</lastUpdated>
+    <lastUpdated>20220429015543</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0.0-SNAPSHOT</value>
-        <updated>20220429015550</updated>
+        <updated>20220429015543</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0.0-SNAPSHOT</value>
-        <updated>20220429015550</updated>
+        <updated>20220429015543</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
